@@ -1,0 +1,24 @@
+{
+  "name": "teams-meeting-audio",
+  "version": "1.0.0",
+  "description": "Enable headless Chrome to participate in Microsoft Teams or Zoom meetings with full two-way audio.",
+  "main": "realtime-bridge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nova328/teams-meeting-audio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nova328/teams-meeting-audio/issues"
+  },
+  "homepage": "https://github.com/nova328/teams-meeting-audio#readme",
+  "dependencies": {
+    "ws": "^8.19.0"
+  },
+  "type": "module"
+}

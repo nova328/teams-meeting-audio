@@ -1,0 +1,18 @@
+# Temp files
+*.wav
+*.mp3
+*.opus
+*.raw
+/tmp/
+
+# Secrets - never commit API keys
+.env
+*.key
+.env.local
+
+# Node
+node_modules/
+package-lock.json
+
+# Logs
+*.log
